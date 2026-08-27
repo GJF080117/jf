@@ -1,0 +1,7 @@
+﻿* 25c1246 (HEAD -> master) merge feature-b: resolve conflict, keep safe + note
+*   8ab4aeb merge feature-b: resolve conflict, keep safe + note
+|\  
+| * aa6594e (feature-b) feature-b: set mode=fast
+* | 5a08307 (feature-a) feature-a: set mode=safe
+|/  
+* d3a0388 init: mode=normal

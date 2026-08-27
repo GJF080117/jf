@@ -1,0 +1,15 @@
+# 编译产物
+*.o
+mud
+mud.exe
+
+# 游戏存档
+save.dat
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
