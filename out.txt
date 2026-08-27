@@ -1,0 +1,9 @@
+/tmp:
+config-err-UYyf5A
+systemd-private-fb7cee477449475c954db269c989c2cb-colord.service-vZAWya
+systemd-private-fb7cee477449475c954db269c989c2cb-fwupd.service-PmDznX
+systemd-private-fb7cee477449475c954db269c989c2cb-rtkit-daemon.service-V9rbQ4
+systemd-private-fb7cee477449475c954db269c989c2cb-systemd-timesyncd.service-jjM8g8
+unity_support_test.0
+VMwareDnD
+vmware-root
